@@ -1,0 +1,352 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at sea, before the Honourable Sir Robert Robinson, Knight, principal commander of His Majestie's squadron of ships, now riding at Spitt-Head, November the 24th, 1678 before the administration of the Holy Sacrament, and oaths of allegiance and supremacy to the several commanders and officers of that squadron, in obedience to the King's command / by George Alsop ...</title>
+            <author>Alsop, George, b. 1638.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25200</idno>
+            <idno type="STC">Wing A2903</idno>
+            <idno type="STC">ESTC R5430</idno>
+            <idno type="EEBO-CITATION">13484756</idno>
+            <idno type="OCLC">ocm 13484756</idno>
+            <idno type="VID">99733</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25200)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99733)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 781:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at sea, before the Honourable Sir Robert Robinson, Knight, principal commander of His Majestie's squadron of ships, now riding at Spitt-Head, November the 24th, 1678 before the administration of the Holy Sacrament, and oaths of allegiance and supremacy to the several commanders and officers of that squadron, in obedience to the King's command / by George Alsop ...</title>
+                  <author>Alsop, George, b. 1638.</author>
+               </titleStmt>
+               <extent>[4], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Langley Curtis ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>" By His Majestie's special order."</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Matthew XXII, 11 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99733:1" rendition="simple:additions"/>
+            <p>A SERMON <hi>Preached at Sea.</hi>
+            </p>
+            <p>Before the Honourable Sir <hi>ROBERT ROBINSON,</hi> Knight, Principal Commander of His MAJESTIE'S Squadron of SHIPS, now Riding at <hi>Spitt-Head, November</hi> the 24<hi rend="sup">th,</hi> 1678.</p>
+            <p>Before the Adminiſtration of the Holy SACRAMENT, and Oaths of <hi>Allegiance</hi> and <hi>Supremacy</hi> to the ſeveral Commanders and Officers of that SQUADRON, in Obedience to the KING's Command.</p>
+            <p>By <hi>GEORGE ALSOP,</hi> M. A. Chaplain to Sir <hi>Robert Robinſon.</hi>
+            </p>
+            <p>
+               <hi>By His Majeſtie's Special Order.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Langley Curtis</hi> in <hi>Goat</hi>-Court, upon <hi>Ludgate-Hill,</hi> 1679.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:99733:2"/>
+            <pb facs="tcp:99733:2"/>
+            <head>To the Honourable, Sir <hi>ROBERT ROBINSON,</hi> Knight, Principal Commander of His Majeſtie's Squadron of Ships now Riding at <hi>Spitt-Head.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I Conſider what you are by Place, and then Conſider what you are by Grace, it makes me ſtand Amaz'd: To ſee a Man whoſe Education ſprings from Noiſe and Tumults, Wounds and Slaughters, Religious, Upon Grounds of holy Cir<g ref="char:EOLhyphen"/>cumſtance:</p>
+            <p>To ſee A Man whoſe Dealing is in Blood and Waves, becalm'd with Pious Thoughts for Churches good:</p>
+            <p>To ſee A Man that fears not Devils if he meets them in a Fleet at Sea; To lay his Roughneſs by, and meekly fall upon his Knees, to Invocate his GOD for King and Kingdoms good; Beſpeaks Religion in the Soul of War.</p>
+            <pb facs="tcp:99733:3"/>
+            <p>This is a Leſson you have Learn'd and Practic'd long, That none with Courage brave can ſerve his King, without he first with Pious Care Obey his God.</p>
+            <p>Can he be fit to Fight and Die, that knowes his wicked life is ſuch, that when he leaves this World he must to Hell.</p>
+            <p>The Christian Cauſe though e're ſo good muſt ſink, if Christians Lives be bad. Can he be trusted to ſubdue a Foe, that cannot ſubdue his Sin; and quarrel ſtrength, that is a Slave and Captive to his Luſt?</p>
+            <p>Sir, Your Life proclaims you Chriſtian, and your Courage Man: And where I ſee theſe meet in one, I may be bold to dedicate a Piece for Churches good to ſuch a Man, without a Frown or Scorn.</p>
+            <p>It was your Pious Faithful Care this Sermon ſhould be Preached; and ſo it was your Zealous Care to Acquaint His Majestie with what was done, that ſo it might be made Publick: And now I hope your Wiſhes will ſucceed, that Heaven may be Honour'd more, and Christians Bet<g ref="char:EOLhyphen"/>ter'd ſtill, when e're it comes abroad, ſhall be the Prayers of him who with his Soul doth Love the King and Churche's Peace.</p>
+            <closer>
+               <signed>
+                  <hi>Your moſt Obedient Servant and Chaplain,</hi> Geo. Alſop.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:99733:3"/>
+            <head>A SERMON Preach'd at SEA.</head>
+            <epigraph>
+               <bibl>
+                  <hi>Matth. Chap. XXII. Verſ. 11.</hi>
+               </bibl>
+               <q>And when the King came in to ſee his Gueſts, he ſaw there a man which had not on a Wedding Garment.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">D</seg>Early beloved in the Lord Jeſus Chriſt; theſe words that I have read unto you, are part of the <hi>Parable</hi> that our Saviour delivered concerning a King, who Marrying his Son, invited divers Gueſts unto the Wedding.</p>
+            <p>The King who invited the Gueſts, is the In<g ref="char:EOLhyphen"/>finite, and Eternal God above; King of all Kings, Lord of all Lords, who hath Power and Mighti<g ref="char:EOLhyphen"/>neſs
+<pb n="2" facs="tcp:99733:4"/>in himſelf to do what he pleaſeth in Heaven, in Earth, and in Hell, the bottomleſs Pit of Eter<g ref="char:EOLhyphen"/>nal Vengeance beneath.</p>
+            <p>He is a King in Heaven by his Grandeur and Majeſtie; in the World by his Grace, tender Love and Goodneſs; in Hell among the Damned, by his Juſtice and Severity.</p>
+            <p>Now the Bridegroom is his Bleſſed Son Jeſus Chriſt, by Eternal generation the Lord and Sa<g ref="char:EOLhyphen"/>viour of us all.</p>
+            <p>The Bride that he Marrieth his Son to, is his Pure, Spotleſs, Holy Catholick Church.</p>
+            <p>The time of the Marriage was at Chriſt's Incar<g ref="char:EOLhyphen"/>nation, when the Divinity and the Humanity were United: for as we obſerve, the beſt way to reconcile two Diſagreeing Families, is to make ſome Marriage between them; Even ſo the Word became Fleſh and dwelt amongſt us in the World, that he might hereby make our Peace, Reconci<g ref="char:EOLhyphen"/>ling God to Man, and Man to God.</p>
+            <p>The Banquet the Gueſts were invited to, was no Ordinary Entertainment, but Wonderful, the Precious Blood of the Lamb of God (ſlain from the Beginning of the World) preached in hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Word, and preſented in his holy Sacraments; the next was Remiſſion of Sins, Everlaſting Life, Peace of Conſcience, Joy in the Holy Ghoſt; oh
+<pb n="3" facs="tcp:99733:4"/>Admirable! Oh Sacred! oh Comfortable Feaſt for poor Miſerable Sinners to be invited to.</p>
+            <p>The perſons appointed to invite the Gueſts, were the Holy Patriarchs and Prophets in old time;</p>
+            <p>The Bleſſed Evangeliſts and Apoſtles in Chriſt's time;</p>
+            <p>The Divine Paſtors and Preachers in our time; Theſe are Meſſengers of the great God, who have done, and ſtill invite poor diſtreſſed penitent Sinners, that are in the high-way to deſtruction, to Come and Sup with him.</p>
+            <p>The Perſons more particular that are Invi<g ref="char:EOLhyphen"/>ted, are both <hi>Jews</hi> and <hi>Gentiles:</hi> for although the <hi>Jews</hi> were ſpecially called, (theſe glad Ty<g ref="char:EOLhyphen"/>dings coming firſt unto them, as being the Se<g ref="char:EOLhyphen"/>lect Peculiar People of God;) yet when they re<g ref="char:EOLhyphen"/>fuſed and rejected the ſame, one going to ſee his Farm, and another to try his Oxen; a third having married a Wife, and ſo could not come; God upon their Rude and Diſ-ingenuous refu<g ref="char:EOLhyphen"/>ſal rejects them, and ſends and invites the <hi>Gen<g ref="char:EOLhyphen"/>tiles,</hi> Aliens from the Common-Wealth of <hi>Iſrael; Go into the High-wayes,</hi> &amp;c.</p>
+            <p>And when theſe, who were invited, were
+<pb n="4" facs="tcp:99733:5"/>come, there was one intruding Gueſt found at the Table without a Wedding Garment.</p>
+            <p>
+               <hi>And when the King came in to ſee his Guests, he ſaw there a man which had not on a Wedding Garment.</hi>
+            </p>
+            <p>Now theſe words will allow us theſe two Parts:</p>
+            <p>Firſt, The Author of the man's diſcovery; and that was the King: <hi>When the King came in,</hi> &amp;c.</p>
+            <p>Secondly, The Fault he is Charged with, is want of a Wedding Garment.</p>
+            <p>Firſt, The Author of the man's diſcovery, and that was the King. We read but of one among ſo many that was without this Wedding Gar<g ref="char:EOLhyphen"/>ment; the Meſſengers let him paſs for currant, but when the King came in, he makes a ſecond Survey and Scrutiny, and finds out this one, who had not on his Wedding Garment; he diſcovers this Unworthy Gueſt, which the Meſſengers could find no fault with; <hi>Friend, how camest thou in hither?</hi>
+            </p>
+            <p>
+               <hi>Beloved,</hi> ſo true it is, that our Eternal God that dwelleth in Light, that no man can ap<g ref="char:EOLhyphen"/>proach,
+<pb n="5" facs="tcp:99733:5"/>ſees not as man ſees. We read in the 1<hi rend="sup">ſt.</hi> of the <hi>Revelation,</hi> and 14 <hi>Verſe,</hi> that the Eyes of the Lord are <hi>like a flame of fire;</hi> they ſearch into the ſecret Apartments of the Heart; not a Corner nor part, but the Lord ſees and diſco<g ref="char:EOLhyphen"/>vers it.</p>
+            <p>But, alas! poor ſhort-ſighted man reacheth no further than the outward appearance; if that be regular and ſmooth to the eye, his ſearch is at an end, he hath diſcovered as much as he can; but the Eyes of God go down deeper in<g ref="char:EOLhyphen"/>to the very Soul, and fathom the Bottom of the Reins, View and Diſcover how all ſtands there. We read in 1 <hi>Sam. Chap.</hi> 16. <hi>Verſ.</hi> 7. that the Lord Commanded <hi>Samuel</hi> not to look on his Countenance, nor on the height of his Stature: <hi>for the Lord ſeeth not as man ſeeth; for man looketh on the outward appearance, but the Lord looketh on the heart.</hi> We may deceive men with our Coun<g ref="char:EOLhyphen"/>tenance, our Grave Geſture, Pageantry and Shews; but theſe can't deceive God, or put a trick upon the Almighty.</p>
+            <p>St. <hi>Paul</hi> tells us in the 4th of the <hi>Hebrewes,</hi> 13 <hi>Verſe,</hi> that <hi>all things are open and naked to the Eyes of him we have to do with;</hi> That is, God hath a full proſpect upon all Men and Women in the World, let them creep under what Mask,
+<pb n="6" facs="tcp:99733:6"/>Diſguize, Canopie of Secrecy they will: Thou may'ſt lye, diſſemble, and cozen ſo cloſely and cunningly, that no Man nor Angel can detect thee; thou may'ſt commit Adultery in the dark, and no man privy to it; Thou may'ſt ſteal when no Eye ſees thee: Thou may'ſt have Treaſon in thy Soul, Rebellion in thy Heart, and yet thy outward ſeeming Conformity may Screen this from Man. Thou may'ſt with <hi>Judas</hi> eat of the Sop, drink of the Cup, receive the Bleſſed Sacrament, ſwallow the Oaths of <hi>Alle<g ref="char:EOLhyphen"/>giance</hi> and <hi>Supremacy;</hi> do all what the Law re<g ref="char:EOLhyphen"/>quires, and yet thou may'ſt have corrupt Po<g ref="char:EOLhyphen"/>piſh Reſervations in thy heart to betray thy Maſter: But all this while remember that thou ſtandeſt Naked before the All-ſearching Eye of an Omnipreſent God, who knowes what thou art, and ſees what thou do'ſt intend. <hi>Totus Auris,</hi> &amp;c, ſaith St. <hi>Ciril,</hi> &amp;c. God he is all an Ear, all an Eye, all an Hand; He hears all, he ſees all, and hath a hand that can reach all where ever we be: God Almighty the Search<g ref="char:EOLhyphen"/>er of all hearts takes up his ſtanding at the door of our Souls, and with his Curious All-ſeeing Eye views all our actions and reſolutions how ſecret ſoever.</p>
+            <p>Holy <hi>David</hi> ſaith, That God looks down
+<pb n="7" facs="tcp:99733:6"/>from Heaven, and beholds all the Sons of men; as well thoſe in the deepeſt darkneſs, as thoſe in the brighteſt light; <hi>Whither</hi> (ſaith <hi>David</hi>) <hi>can we flie from thy preſence? if we take the wings of the Morning and flie to the uttermost parts of the Earth, thou art there; if we go up to Heaven, thou art there; if I go down into the thick ſmoak of Hell, thou art there.</hi> Is it not a madneſs then to ſay, when thou art a going about wickedneſs, peradven<g ref="char:EOLhyphen"/>ture the Night ſhall hide me; when the day and the Night are both alike to God?</p>
+            <p>God ſees thee when thou goeſt out early in the Morning; God ſees thee when thou comeſt home in the Evening late. God ſees thee when the Candle burns; God ſees thee when the Candle is out. God ſees thee when thou Con<g ref="char:EOLhyphen"/>verſeſt with thy heart, and ſitteſt in Council with thy thoughts: What can we do but God ſees it; and whither can we go, but God will diſcover us?</p>
+            <p>And though this Doctrine be as true as God is true, yet is it not ſtrange, and full of Aſtoniſh<g ref="char:EOLhyphen"/>ing wonder, to ſee how <hi>Adam,</hi> and all the Sons of <hi>Adam</hi> labour to hide themſelves and their ſins from God?</p>
+            <p>
+               <hi>Adam,</hi> after his great Tranſgreſſion in <hi>Eden,</hi> hid himſelf behind the Buſhes, and Trees of the
+<pb n="8" facs="tcp:99733:7"/>Garden, as if they could have ſecur'd him from the All-ſeeing Eye of his Maker; but he was ſoon ſenſible of his folly: for God in the Cool of the Evening came to the very Buſh where he lay, <hi>Adam, where art thou?</hi> Alas poor wretch! nothing could hide thee from the Diſcovery of thy God.</p>
+            <p>And did not <hi>Cain, Adam</hi>'s Son, tread in the footſteps of his Father? for when he had Inhu<g ref="char:EOLhyphen"/>manely Murdered his poor Innocent Brother <hi>Abel,</hi> how did he labour to cover the blood with the duſt of the Ground, to hide and con<g ref="char:EOLhyphen"/>ceal his wickedneſs! For then God called from Heaven, <hi>VVhere is thy Brother Abel?</hi> how Moroſe and Angry doth he anſwer God, as if he knew nothing of it? <hi>Am I my Brother's Keeper?</hi> Yet this would not do: God ſaw it when no Eye elſe ſaw it, and puniſhed him ſoundly for it. <hi>Sarah</hi> thought none did ſee her laugh, when ſhe ſeem'd to miſtruſt God's promiſing her a Son; yet God ſaw it, though as the Holy Text ſaith, <hi>She only laughed within her ſelf. God</hi> ſaw <hi>Zeeb</hi> behind the Wine-Preſs. <hi>God</hi> ſaw <hi>Saul</hi> when he hid himſelf under the Stuff. Who would ever have thought that the <hi>Babyloniſh</hi> Garment, the 200 ſhekels of Silver and 50 ſhekels of Gold that <hi>Achan</hi> conveyed away, would ever have
+<pb n="9" facs="tcp:99733:7"/>been diſcovered? No Eye ſaw him when he brought them out of the Camp, he Intombed them under his own Tent, all ſafe and ſecure as he thought; and yet <hi>God</hi> diſcovers this fact of his and layes it open to all <hi>Iſrael.</hi> How did God openly manifeſt and diſplay the Abominable Idolatry of the <hi>Iſraelites,</hi> together with their Idols and Images, when they had got them<g ref="char:EOLhyphen"/>ſelves between two Walls from all appearance of ſight? and yet ſee how God brings the Prophet <hi>Ezekiel</hi> to the very Entring-place of the Door that led into the Chamber of their Imagery; <hi>Ezekiel,</hi> Chap. 8. Verſe 8, 9, 10. <hi>Then ſaid he unto me, Son of Man, digg now in the wall; and when I had digged in the wall, behold, a Door. And he ſaid unto me, Go in, and behold the wicked Abominations that they do here. So I went in, and ſaw, and behold, every form of creeping things, and abominable beasts, and all the Idols of the houſe of Iſrael pourtrayed upon the wall round about.</hi>
+            </p>
+            <p>The Devilliſh Plotting Powder-Traytors met together in the Vault, they thought them<g ref="char:EOLhyphen"/>ſelves ſecure; ſhadowed from the eye of No<g ref="char:EOLhyphen"/>tice, and fenced from the hand of Juſtice: But as Dark as the Vault was, and as Cloſe as they went to work, the <hi>All-ſeeing God</hi> deſcry'd their Abomination, and deſtroy'd them, and their ha<g ref="char:EOLhyphen"/>bitation.
+<pb n="10" facs="tcp:99733:8"/>The Obſcurity of their Cell, Thick<g ref="char:EOLhyphen"/>neſs of Walls, Cloſeneſs of Windows, with the Cloak of a holy Catholick Profeſſion, thrown over all this, could not make their Notorious Wickedneſs Dark to the Eye of Heaven.</p>
+            <p>Little did this late Brood of <hi>Romiſh</hi> Villains ever think, that their horrid Intended Treaſon to Butcher the King, and Subvert the whole Kingdom, ſhould have been ſo manifeſted, and laid open, as, bleſſed be our Gratious <hi>God,</hi> it is at this day.</p>
+            <p>How long was the Pope, the Cardinals, the Jeſuits, the Monks, the Friers, Hatching this Bloody Miſchief; and juſt when they thought to have brought forth their Inhumane Deſign, that <hi>God,</hi> that View'd all their Meetings, ſaw all their Doings, read all their Letters, Par<g ref="char:EOLhyphen"/>dons, Bulls, Commiſſions; Cruſht the Cocka<g ref="char:EOLhyphen"/>trice in the ſhell: If <hi>Eliſha,</hi> who was but a man, could eſpy all the Deſign and Contrivan<g ref="char:EOLhyphen"/>ces of the <hi>Aſsyrian</hi> King, which he concluded of in his ſecret Chamber; what then can eſcape the Eye, the Ear, the Knowledg of the <hi>God</hi> of <hi>Eliſha?</hi>
+            </p>
+            <p>The <hi>Uſe</hi> that I will make of this Point, ſhall be that of Saint <hi>Ber. de converſ. ad Cler. C.</hi> 16. <hi>Cautè Ambula, Te Videt Angelus Malus, videt te Bonus,
+<pb n="11" facs="tcp:99733:8"/>videt &amp; Bonis &amp; Malis Major Angelis, Deus:</hi> Our Impieties are not without witneſs; the good Angels and the bad Angels, and he that's bet<g ref="char:EOLhyphen"/>ter than the Angels, far above all Principali<g ref="char:EOLhyphen"/>ties, even the great God of Heaven and Earth ſees us, <hi>cautè igitur ambula.</hi> It behoveth us there<g ref="char:EOLhyphen"/>fore to walk Circumſpectly and Sincerely; for though we may ſeem for a time to hide our ſelves and our ſins from God, yet at length God will find us out, as he did <hi>Adam</hi> in <hi>Eden, Cain</hi> in the Field, <hi>Zeeb</hi> behind the Wine-Preſs, <hi>David</hi>'s Adultery and Murder, the <hi>Iſraelites</hi> Idolatry; as he did the Powder-Traitors; as he did the Horrid Popiſh Treaſon of late; as he did this Unworthy Gueſt in my Text.</p>
+            <p>It was good Counſel that one of the Rabins gave unto his Scholar, <hi>Remember Three Things and thou ſhalt never do amiſs.</hi> 1. <hi>That there is about thee a ſeeing Eye.</hi> 2. <hi>A hearing Ear.</hi> 3. <hi>A Book, wherein all thy works, words and thoughts are Regi<g ref="char:EOLhyphen"/>ſtred.</hi> Now did we really and weightily con<g ref="char:EOLhyphen"/>ſider this, That <hi>God</hi> ſaw us, that <hi>God</hi> heard us, and that <hi>God</hi> Regiſtred all that we do, and will one day bring us to an accompt for it; Cer<g ref="char:EOLhyphen"/>tainly, there would not be ſo much private Murder, ſo much private Adultery, ſo much private Treaſon againſt the King, ſo much Hy<g ref="char:EOLhyphen"/>pocricy,
+<pb n="12" facs="tcp:99733:9"/>ſo much ſelf-Intereſt, ſo much Deceit, ſo much Couzenage acted as there is. Did we believe that <hi>God</hi> heard all our Words, ſaw all our Works and Doings, we ſhould not dare to Affront <hi>God</hi> ſo openly, nor Commit thoſe fre<g ref="char:EOLhyphen"/>quent Abominations in the Dark as we do.</p>
+            <p>No man will be ſo Impudent as to ſteal in the face of the Judge; no man will be ſo No<g ref="char:EOLhyphen"/>torious as to be drunk, or Commit Adultery in the Eye of his Prince; and yet how often do men ſteal and are drunk and commit filthineſs in the Eyes of the Judge of all Men, and the King of the whole Earth.</p>
+            <p>A man that is truly perſuaded <hi>God</hi> ſees him, he will take heed what he doth, and that <hi>God</hi> hears him, he will temper his Tongue with Diſcretion; And that <hi>God</hi> ſearcheth every Cor<g ref="char:EOLhyphen"/>ner of his heart, he will be very mindful of what he meditates and thinks on. A man who is perſuaded that <hi>God</hi> beholds all his Dealings in the World, he will take heed how he Bor<g ref="char:EOLhyphen"/>rowes, how he Lends, how he Buyes, how he Sells, how he Wrongs his Neighbour either in his Name, or in his Goods, or in his Life: Be perſuaded then to live as thoſe that have al<g ref="char:EOLhyphen"/>wayes <hi>God</hi> before them.</p>
+            <p>And now to ſtir you up yet further to this
+<pb n="13" facs="tcp:99733:9"/>holy Duty of Sincere, Holy, and Honeſt Walk<g ref="char:EOLhyphen"/>ing, as in the Preſence of the All-ſeeing <hi>God,</hi> take theſe Two or Three Motives and Inducements following.</p>
+            <p>
+               <hi>First,</hi> Conſider, That that <hi>God</hi> that made thee, that feeds thee, cloathes thee, preſerves thee, gives thee Health and Peace, and by his Mercy has kept thee out of Hell; This very <hi>God</hi> Com<g ref="char:EOLhyphen"/>mands thee to walk before him in all honeſty, and godlineſs of life. We read in the 17. <hi>Gen. Verſ.</hi> 1. That the Lord Commanded <hi>Abraham</hi> to <hi>walk before</hi> him, <hi>and be upright;</hi> And in <hi>Abraham,</hi> he Commands all the Children of the ſame Faith to walk before him, and be upright. Remember this, if thou wouldeſt be a Saint in Glory as <hi>Abraham,</hi> thou muſt obey the Com<g ref="char:EOLhyphen"/>mand of thy Maker, walking ſincerely and ho<g ref="char:EOLhyphen"/>lily upon Earth, as <hi>Abraham</hi> did. A good Sub<g ref="char:EOLhyphen"/>ject will obey the Commands of his King, and a good Chriſtian the Commands of his <hi>God.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> As it is the Command of <hi>God,</hi> That thou ſhould'ſt walk holily as in his preſence, ſo we have the Example of <hi>God</hi>'s Servants who are Renowned for the Obedience of his Com<g ref="char:EOLhyphen"/>mandment. Holy <hi>Enoch walked with God,</hi> that is, he looked upon God as who ſaw his Thoughts, Cogitations, Actions; heard all his
+<pb n="14" facs="tcp:99733:10"/>words, and his life was anſwerable to ſuch a proſpect.</p>
+            <p>How Holy, how Pious, how Religious, how Obedient was <hi>Abraham</hi> in Walking before God? how Exact was holy <hi>David</hi> in this way? for fear of doing ill he placed the Lord alwaies be<g ref="char:EOLhyphen"/>fore him. <hi>Pſal.</hi> 116.9. <hi>I will walk before the Lord in the Land of the Living.</hi> Let the Command therefore of God, and the Example of his holy Saints, urge thee to keep God alwaies before thee.</p>
+            <p>
+               <hi>Thirdly,</hi> As we have the Command of God, the Example of the Saints for our walking as in God's Preſence; ſo he that walks as in the pre<g ref="char:EOLhyphen"/>ſence of God, it will certainly bring him to make a Conſcienee of all Sin. When <hi>Joſeph</hi> was allured by his Impudent Miſtreſs to commit filthineſs, he made her this anſwer, <hi>How ſhall I commit this Great Wickedneſs, and ſin against God?</hi> The bridle that reſtrain'd <hi>Joſeph,</hi> was the fear of God, in whoſe preſence he walked. If men walked as in the preſence of God, when Luſt, when Covetouſneſs, when Pride, when Drun<g ref="char:EOLhyphen"/>kenneſs, when Revenge, when Treaſon doth tempt and allure them, they would anſwer, We dare not meddle with you, for that God that's in Heaven ſees us; that God that's in Heaven hears
+<pb n="15" facs="tcp:99733:10"/>us, we dare not <hi>do this Wickedneſs and ſin against God.</hi> Had the man in my Text propounded this to himſelf, he would never have Intruded as he did to his Eternal Damnation. Many don't care how they appear before <hi>God,</hi> ſo Man don't think amiſs of them. Alas! what is it to ſeem good and honeſt before men, but in <hi>God</hi>'s Eſteem be a Wicked Hypocritical Reprobate?</p>
+            <p>This Unworthy Gueſt in my Text made as fair, as honeſt, and as Religious a ſhew as the reſt; and yet you ſee he was Condemned as an Unworthy Gueſt, and thrown into outer dark<g ref="char:EOLhyphen"/>neſs. Let this then be alwaies in thy thoughts, That <hi>God</hi> ſees thy Soul, however outwardly fair thou do'ſt appear to Man.</p>
+            <div type="part">
+               <head>The Second Part.</head>
+               <p>THe Fault the man is here charged with, is the want of a Wedding Garment; where we may Note, <hi>That it is not enough to preſent our Souls, our Bodies before the All-ſeeing Eye of God, un<g ref="char:EOLhyphen"/>leſs we come prepared as we ought.</hi>
+               </p>
+               <p>The man here in my Text not being prepa<g ref="char:EOLhyphen"/>red when he came to the Feaſt, was Caſt into Hell.</p>
+               <p>It is ſomething indeed to come into the Con<g ref="char:EOLhyphen"/>gregation
+<pb n="16" facs="tcp:99733:11"/>to hear the Word Preached, to re<g ref="char:EOLhyphen"/>ceive the Sacrament, to bow our ſelves before Almighty <hi>God</hi> in Prayer; But let me tell you, theſe are not enough; for if we reſt here, theſe will be but as fuel to add fire to our further Condemnation.</p>
+               <p>
+                  <hi>Judas</hi> Repaired into Chriſt's preſence, but being not prepared, he was Condemn'd as the Son of Perdition; he eat at the Lord's Table as well as the reſt, but as the Sop went down, the Devil went after it; which was a dear Sa<g ref="char:EOLhyphen"/>crament to him, To Eat and Drink his own Damnation: for want of Inward Sincerity, an honeſt an ſound heart, he was Eternally Damn'd.</p>
+               <p>
+                  <hi>All our Fathers,</hi> ſaith St. <hi>Paul, were under the Cloud,</hi> that is, they had the ſame Sacrament, in effect, with us, though not in ſubſtance; and yet how many of them did God overthrow in the Wilderneſs?</p>
+               <p>From whence we will Note, <hi>That outward Privileges and Claims to God, without Inward San<g ref="char:EOLhyphen"/>ctification and Holineſs, profit nothing.</hi>
+               </p>
+               <p>The Fooliſh Virgins had oyl in their Lamps, but none in their Veſſels; they had outward Profeſſion, but wanted inward Sincerity; they wanted a ſupply from within; they had not
+<pb n="17" facs="tcp:99733:11"/>Inward Grace, as well as outward Shew.</p>
+               <p>There were many that lived with Chriſt in the Fleſh, that did not eat and drink with him; they Prophecy'd in his Name, and in his Name did caſt out Devils, and did many Wonders, and yet Chriſt profeſſeth he knows them not. There muſt be Inward Holineſs and Sincerity, as well as outward Shew, or elſe it comes to nothing.</p>
+               <p>Here then we ſee, that the Colluſion of the Church of <hi>Rome</hi> is blown away with the ſound of this Doctrine: for the Men of <hi>Rome</hi> ſay, <hi>That outward works are available to Salvation, though there be no Inward Conformity.</hi> When as we ſee this Unworthy Gueſt made as Glorious a ſhew to the eyes of the World, as the reſt at the Table; and yet was rejected by him that was the Searcher of Souls.</p>
+               <p>The <hi>Romaniſts</hi> ſay, <hi>The very receiving the Bread only</hi> (for the Prieſt drinks the Wine) <hi>doth remit ſins, confer Grace, and gives us a ſure Title to the Kingdom of Heaven:</hi> Contrary to the Doctrine of my Text, and that of St. <hi>Paul,</hi> who pro<g ref="char:EOLhyphen"/>nounceth the Unworthy Receiver Guilty of the Body and Blood of Jeſus. We ſee then, let the <hi>Romanists</hi> ſay what they will, 'tis as much as our Souls are worth, to come into the preſence of God to eat and drink at his Table Unprepa<g ref="char:EOLhyphen"/>red;
+<pb n="18" facs="tcp:99733:12"/>you know what became of this Unworthy Gueſt in the Text.</p>
+               <p>Should God make a ſtrict ſearch among us, from the higheſt to the loweſt, can you think he would find but one Unworthy Gueſt, but one Unworthy Officer among us? I can charge none of you with Unworthineſs, but out of a tender regard to your Eternal good.</p>
+               <p>I beſeech you, as you value the Blood of Chriſt ſhed for you, and the Salvation of your own Immortal Souls, every man of you that is invited to this Bleſſed Feaſt of the Body and Blood of Chriſt, ſtrictly to Examin himſelf, before he Eats of this Bread, or Drinks of this Cup.</p>
+               <p>And now to prevent the Danger which the want of this Wedding Garment may bring up<g ref="char:EOLhyphen"/>on us:</p>
+               <p>Firſt, I will ſhew you, what this Wedding Garment is.</p>
+               <p>Secondly, The means how you may obtain it.</p>
+               <p>Thirdly, How we muſt uſe it when we have obtain'd it.</p>
+               <p>Firſt, What this <hi>Wedding Garment</hi> is; There is great difference among the Fathers, what this <hi>Wedding Garment</hi> is, <hi>One</hi> ſaith it is the New Man.
+<pb n="19" facs="tcp:99733:12"/>
+                  <hi>Another,</hi> the obſerving the Commandements of Chriſt. <hi>Another,</hi> a Pure Converſation. <hi>Ano<g ref="char:EOLhyphen"/>ther,</hi> an Upright Heart. <hi>Another,</hi> Regeneration, conſiſting in Faith and Repentance. <hi>Another,</hi> Faith. <hi>Another,</hi> Charity. <hi>Another,</hi> good Works. <hi>Another,</hi> Humility.</p>
+               <p>But (St.) <hi>Origen</hi> ſaith, it is Chriſt, and ſo un<g ref="char:EOLhyphen"/>doubtedly it is; becauſe whoever will come unto God, or partake of any Myſtery of Salva<g ref="char:EOLhyphen"/>tion, muſt be Cloathed with Chriſt as a Gar<g ref="char:EOLhyphen"/>ment, 1 <hi>Cor.</hi> 1.30. <hi>Who is made unto us</hi> the Faith<g ref="char:EOLhyphen"/>ful, <hi>Wiſdom, Righteouſneſs, Sanctification, and Re<g ref="char:EOLhyphen"/>demption.</hi> Chriſt, as the Apoſtle ſaith, covers all his as with a Garment. We ſee plain enough that there are ſpots in the Moon, but there are none in the Sun: So in the beſt of our Graces and Worthineſs, there are ſtains and ſpots, ſuch as <hi>God</hi> would abhor to appear before him, did not the Righteouſneſs and Satisfaction of his Dear Son Jeſus Chriſt, cover us and appear for us. Chriſt Jeſus is the Wedding Garment, that makes us acceptable to the Father, without Chriſt, what ſhould we do? tis his Righteouſ<g ref="char:EOLhyphen"/>neſs that muſt cover our Unrighteouſneſs. 'Tis his Humility that muſt cover our Pride, 'tis his Obedience, that muſt cover our Diſobedience, 'tis his Faith that muſt Cover our Diffidence,
+<pb n="20" facs="tcp:99733:13"/>'tis his Love that muſt Cover our Hatred, 'tis his Zeal that muſt Cover our Lukewarmneſs; and then being Covered with Chriſt as with a Garment, there can be no Condemnation un<g ref="char:EOLhyphen"/>to us; becauſe as the Apoſtle ſaith, we are in Chriſt Jeſus: for without the pretious Merits of Chriſt, we are but Unworthy Gueſts. Was ever Man or Woman ſav'd by their own Works, by their own Merits, no not the Vir<g ref="char:EOLhyphen"/>gin Mary her ſelf; <hi>My Soul doth Magnifie the Lord, and my Spirit Rejoyceth in God my Saviour,</hi> theſe are Holy <hi>Mary's</hi> Words.</p>
+               <p>The Romaniſts will not allow of this Holy and Righteous Garment of Chriſt's Satisfaction to be ſufficient; but like <hi>David</hi> concerning <hi>Saul's</hi> Armour; it is either too heavy or too long or too ſhort, and ſo they ſtrut in a Popiſh Coat of their own Merit and Righteouſneſs.</p>
+               <p>We read that <hi>Adam</hi> and <hi>Eve</hi> made unto them<g ref="char:EOLhyphen"/>ſelves Coverings of Fig leaves to hide their Na<g ref="char:EOLhyphen"/>kedneſs, but God did diſlike theſe, and ſo made them Coats of Skins, and Cloathed them there<g ref="char:EOLhyphen"/>with; teaching us, if we patch our own Satisfacti<g ref="char:EOLhyphen"/>on, our own Works, our own Dutys, our own Me<g ref="char:EOLhyphen"/>rits together, and cover our ſelves with them as with a Garment, and rely upon them as ha<g ref="char:EOLhyphen"/>ving force and Efficacy to ſave and help us; then
+<pb n="21" facs="tcp:99733:13"/>are we no way fit to appear in the Preſence of the Eternal God, who accepts of no man, but through the Merits, Works, and Satisfaction of his Son <hi>Jeſus.</hi> He that looks to be ſav'd by his own merits, will undoubtedly fall ſhort of Hea<g ref="char:EOLhyphen"/>ven through his own preſumption. It is a ſaying of <hi>Job, My own cloaths make me abhor'd,</hi> ſo our own Works without Chriſt make us Loathſom in the Eyes of God.</p>
+               <p>Let us all then be perſuaded to Caſt off the menſtruous Rags of our former Converſation, <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe. </seg>
+                  </label> the old Man, which is Corrupt, according to the Deceitful Luſts, and be renewed in the Spirit of our minds, putting on the new man which after God is Created in Righteouſneſs, and true Holineſs; Labouring to be Uncloathed, that we may be Cloathed upon, that ſo we <hi>may be found in Chriſt, not having our own Righte<g ref="char:EOLhyphen"/>ouſneſs which is of the Law; but of that which is through the Faith of Christ, the Righteouſneſs of God by Faith:</hi> Phil. 3. ver. 9.</p>
+               <p>This is the Garment we muſt Labour for, this is the Garment that we muſt ſtrive and En<g ref="char:EOLhyphen"/>deavour to get, for to cover our Poor Naked and Immortal Souls.</p>
+               <p n="2">2. Having ſhew'd you what this Garment is, I will now ſhew you how it may be ob<g ref="char:EOLhyphen"/>tained.</p>
+               <pb n="22" facs="tcp:99733:14"/>
+               <p>A thing may be made ours by diverſe means.</p>
+               <p n="1">1. We may buy it. 2. We may earn it, or deſerve it. 3. It may be given us. 4. We may have it by way of Exchange: And now that we may obtain this holy Garment of Chriſt's Righteouſneſs, tis the Counſel of Chriſt him<g ref="char:EOLhyphen"/>ſelf, <hi>Rev.</hi> 3. <hi>ver.</hi> 15. <hi>Buy of me gold tryed in the Fire that thou mayeſt be Rich, and white Rayment that thou mayeſt be Cloathed, that the ſhame of thy Nakedneſs do not appear.</hi>
+               </p>
+               <p>But ſome will Object and ſay, <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> 
+                  <hi>What must we buy Christ the Saviour of our Souls with Money as</hi> Judas <hi>ſould him?</hi>
+               </p>
+               <p>Buy him we muſt, <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> though not as <hi>Judas</hi> ſould him, but as the Prophet ſpeaks in <hi>Eſa.</hi> 55. <hi>ver.</hi> 1. <hi>Without Money and without Price.</hi> The rea<g ref="char:EOLhyphen"/>ſon of the Term <hi>Buying,</hi> here mentioned, is; becauſe there is a near reſemblance between the Spiritual, and the Material Buying.</p>
+               <p n="1">1. In the Buying of Material things wee ſee a want and need of them, before we buy them.</p>
+               <p n="2">2. There is a Longing or Deſire to be poſ<g ref="char:EOLhyphen"/>ſeſſed of them.</p>
+               <p n="3">3. There is a Reſorting to the place where they are to be had.</p>
+               <p n="4">4. There is a laying down of the Money, and taking up of the Ware.</p>
+               <pb n="23" facs="tcp:99733:14"/>
+               <p>The like way we may obſerve in our Spiri<g ref="char:EOLhyphen"/>tual buying.</p>
+               <p n="1">1. Before we buy a Commodity, we ſee the want and need of it; ſo before we can have this Wedding Garment of Chriſt's Merits and Satisfaction, we muſt ſee, know, and feel, that we want it, we muſt know what a dangerous State it is to be without it.</p>
+               <p n="1">1. If we have it not, we have no Peace of Conſcience in this World, nor Heaven, nor Happineſs in the next.</p>
+               <p n="2">2. If we are not covered with Chriſt, as with a Garment, this Judgment will lay hold on us, we ſhall be Condemned and thruſt out of doors, with the Curſed Unworthy Gueſt in my Text, and have our Portion with the Hy<g ref="char:EOLhyphen"/>pocrites, in the Lake which Burneth with Fire and Brimſtone. Now till we are thoroughly perſuaded of theſe things, That without this Garment we ſhall be deprived of the Joys of Heaven, and be made Eternally Miſerable in Hell, we ſhall never ſee the need that we have of this Holy Wedding Garment of Chriſt's Righteouſneſs; the Whole need not a Phyſici<g ref="char:EOLhyphen"/>an, but the Sick, <hi>tolle vulnera, tolle opus Medici;</hi> if there be no Diſeaſe, what need is there of the Phyſician: He that's full, deſpiſeth the Ho<g ref="char:EOLhyphen"/>ney
+<pb n="24" facs="tcp:99733:15"/>Comb, tis the hungry that ſees and feels the want of Food, that craves and ſeeks for it: ſo till wee ſee our own Wretchedneſs, Blind<g ref="char:EOLhyphen"/>neſs, Poverty, dreadful State and Danger, Sin hath brought us into, we ſhall never be Cloath<g ref="char:EOLhyphen"/>ed with this Wedding Garment.</p>
+               <p n="2">2. When a man wants a Commodity, he longs and deſires after it, he is never quiet till he is poſſeſſed of it; ſo theſe that truly ſee the want of Chriſt's Righteouſneſs, they long and thirſt after it, and are ne're ſatisfied till they do poſſeſs it. <hi>God</hi> gives this Garment to none but thoſe that long and earneſtly deſire it. <hi>God</hi> ſaith his Servants ſhall eat, but firſt they ſhall be a thirſt. <hi>God</hi> pronounceth none bleſſed, but thoſe that hunger and thirſt after Righteouſ<g ref="char:EOLhyphen"/>neſs; not he that cares not whether ever he hath <hi>Christ</hi> or no, ſo he may be covered with his Luſt, or his Pride, or his Drunkenneſs.</p>
+               <p n="3">3. He that wants a Commodity, will reſort to the place where 'tis to be had; as <hi>Ja<g ref="char:EOLhyphen"/>cob</hi>'s Sons, when they wanted Corn, they came down to <hi>Egypt</hi> where 'twas to be had: ſo if we want this Spiritual Garment, we muſt go where it is; that is, at <hi>Bethel,</hi> the Church and Houſe of God; that is the Spiritual Wardrobe, where
+<pb n="25" facs="tcp:99733:15"/>all Heavenly Robes are laid up; there is the very place where Chriſt will meet you in his Word and Sacraments: <hi>Where two or three are met together in my Name, I'le be in the midst of them.</hi> Do you think they deſerve to be Clothed with the Righteouſneſs of Chriſt, that prefer World<g ref="char:EOLhyphen"/>ly Affairs, Sleep, Luſt, Walking abroad, before the meeting with Chriſt in his Holy Church about their Eternal Happineſs.</p>
+               <p n="4">4. He that wants a Commodity, when he comes to the place where it is, he prizes the ſame, lays down his money, and takes up the Ware; and by laying down his Money, he ſhews that he Eſteems the Ware better than his Money; even ſo muſt we reſolve to throw off all the ſwelling Conceit of our own Righ<g ref="char:EOLhyphen"/>teouſneſs, our own Worth, our own Merits, our own Excellency; Accounting all things droſs and dung in compariſon of Chriſt Jeſus. Now <hi>Beloved,</hi> conſider, Is not this a gainful and bleſſed Change for us, when we may lay down our own Unrighteouſneſs, and take up Chriſt's Righteouſneſs? our own Diſobedience, and take up Chriſt's Obedience; our own Pride, and take up Chriſt's Humility? and till we do this, we are no way <hi>Clothed with Christ as with a Garment.</hi>
+               </p>
+               <pb n="26" facs="tcp:99733:16"/>
+               <p>Thus much of the Proportion which is held between the Material and Spiritual Buying; And now I fear, if moſt men ſhould examin themſelves by theſe Points, there would be a great Defect in moſt men.</p>
+            </div>
+            <div type="part">
+               <head>For Proof.</head>
+               <p>
+                  <hi>First,</hi> Do you ſee the want of Chriſt, the Great Neceſſity that you have of his Righteouſ<g ref="char:EOLhyphen"/>neſs, to Cloth your Naked Wretched Souls with? You can ſee the want of Money, the want of Friends, the neceſſity of Preferment; but how few are there who ſee the true Want and Neceſſity of Jeſus Chriſt? but rather like the Prophane Duke that ſaid, <hi>If he could have</hi> Paris, <hi>he did not care whether ever he had Paradiſe.</hi> Never reckon upon <hi>Christ</hi> then, till thou truly ſeeſt the want more of <hi>Christ</hi> than Gold or Sil<g ref="char:EOLhyphen"/>ver, Preferment, Health; or what ever this World can afford.</p>
+               <p>
+                  <hi>Secondly,</hi> Do you long, thirſt, and hunger af<g ref="char:EOLhyphen"/>ter <hi>Chriſt?</hi> And can you be no way ſatisfied without him? Doth all the Profit and Pleaſure of this World look vain and empty without <hi>Christ?</hi> Then thou art Happy. It is obſerved, that moſt men long and covet after the things
+<pb n="27" facs="tcp:99733:16"/>of this life, and are never ſatisfied until they enjoy and poſſeſs what they long, covet and deſire. Now if thou Long'ſt more for <hi>Christ,</hi> than for <hi>hidden Treaſure;</hi> more for <hi>Chriſt,</hi> than for Health and Pleaſure of this life, it beſpeaks thee in ſome meaſure to be worthy of <hi>Chriſt.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly,</hi> Do you reſort with love and holy ſincerity to the place of Worſhip where <hi>Chriſt</hi> is; And not out of a Compliance only to the Law of Man, or for fear you ſhould be ſuſpend<g ref="char:EOLhyphen"/>ed from your Imployment? If you do not Con<g ref="char:EOLhyphen"/>form, have a care of Hypocritical Jugling. You may deceive Men, but you can't deceive God; for where Man ends, God begins. The Unworthy Gueſt in my Text, did Conform outwardly, when he meant nothing ſo in<g ref="char:EOLhyphen"/>wardly: He came as plauſibly to the Table as any, when his Soul and Reſolutions were found another way: But for ſo doing, he was Eter<g ref="char:EOLhyphen"/>nally Damn'd.</p>
+               <p>
+                  <hi>Fourthly,</hi> Do you, when you come before <hi>God,</hi> caſt off all Pride, Meritorious Conceit of your own Excellencies; and with the poor Publican hang down your Heads, beat your Breaſts, ſay<g ref="char:EOLhyphen"/>ing, Lord have Mercy upon us Unworthy Crea<g ref="char:EOLhyphen"/>tures? 'Tis obſerv'd, That moſt men have a <hi>Mountebank</hi>-Opinion of their own worth. <hi>Nar<g ref="char:EOLhyphen"/>ciſsus</hi>
+                  <pb n="28" facs="tcp:99733:17"/>like, we are very apt to dote upon our own ſhadows; but let me tell you, that none wears this wedding Garment of Chriſt's Righteouſneſs but he that's contrite &amp; humble in his own eyes.</p>
+               <p>Now by theſe you may know, whether you are fit for the Table of the Lord or no; do you ſee the want of Chriſt, do you long for Chriſt, do you come with Love and Zeal to meet with Chriſt; can you willingly lay down your own Righteouſneſs and take up Chriſt's; then come in the name of God, and eat of this bread and drink of this Cup, or elſe it is as much as your Souls are worth to meddle with them.</p>
+               <p>Now having ſhewed you what this Gar<g ref="char:EOLhyphen"/>ment is, and how you may obtain it: I will now in the laſt place ſhew how you muſt uſe it and wear it.</p>
+               <p>It is the Apoſtle's advice, <hi>Rom.</hi> 13. <hi>To put on the Lord Jeſus Chriſt;</hi> for let me tell you, if we don't put on Chriſt as a Garment, Chriſt will one day put off you with a <hi>nonnovi vos: I know you not, go ye Curſed into Everlaſting fire prepared for the Devil and his Angels.</hi>
+               </p>
+               <p>And now Beloved, that we uſe and wear this Garment aright, there are theſe two Offices to be performed.</p>
+               <p>
+                  <hi>First,</hi> We muſt put off.</p>
+               <p>
+                  <hi>Secondly,</hi> We muſt put on.</p>
+               <pb n="29" facs="tcp:99733:17"/>
+               <p>
+                  <hi>First,</hi> Before we can put on we muſt put off; we muſt put off all the filthy rags of our for<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r corruption, our ſinful nature, our beaſt-like affections, <hi>&amp;c.</hi>
+               </p>
+               <p>Men, when they put on new Apparel, pull off the old and throw them by; ſo if you would be cloathed with the Righteouſneſs of Chriſt, you muſt caſt off the filthy clouts of your Men<g ref="char:EOLhyphen"/>ſtruous Converſation.</p>
+               <p>The Swearer muſt put off his ſwearing, the Drunkard muſt put off his drunkenneſs, the Un<g ref="char:EOLhyphen"/>clean perſon muſt put off his filthineſs, the Cove<g ref="char:EOLhyphen"/>tous man his uncharitableneſs, the Envious man his hatred, the Traytor his Treaſon, the Idola<g ref="char:EOLhyphen"/>ter his Superſtition: for let me tell you, that you may as well perſwade me that Heaven and Hell are reconciled together, as that Chriſt and Sin dwell together in one man; therefore if thou intend'ſt to be cloathed with Chriſt as with a Garment, thou muſt put off, as the A<g ref="char:EOLhyphen"/>poſtle ſaith in the <hi>Eph.</hi> 5.3. <hi>All uncleanneſs, in<g ref="char:EOLhyphen"/>ordinate affections, evil Concupiſcence, Wrath, Malice, Blaſphemy, filthy Communication, lying one to ano<g ref="char:EOLhyphen"/>ther.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> As you muſt put off, ſo you muſt put on; and the means to put on Chriſt is faith, believing, apprehending and appropriating
+<pb n="30" facs="tcp:99733:18"/>Chriſt and his Merits to our ſelves, we muſt be<g ref="char:EOLhyphen"/>lieve all the promiſes of God in Chriſt Jeſus made unto man, and particularly apply the ſame unto our own ſelves, which is only done by the Act of true Faith.</p>
+               <p>Faith is as it were the hand of the Soul which doth reach Chriſt unto us and put him on. Would'ſt thou have Chriſt dwell in thy heart, would'ſt thou put him on as a Garment? believe Chriſt with thy mind and heart, and thou haſt him.</p>
+               <p>And now <hi>Beloved,</hi> that I may leave nothing wanting of my part to put you in the right way for Eternal happineſs, you muſt know that it is not every Faith, or bare Believing of Chriſt will put on Chriſt as a Garment. No, then the Devils may put him on, for they believe all the Hiſtorical part of the <hi>Bible,</hi> from the Firſt of <hi>Geneſis</hi> to the laſt of the <hi>Revelations:</hi> Hypocrites believe in God and in Chriſt, and yet for all that they are thrown to the hotteſt place of Hell.</p>
+               <p>Now that Faith that is ſaving Faith, that like a Hand reacheth Chriſt, and puts him on, is an <hi>Operative</hi> and working Faith.</p>
+               <p>
+                  <hi>Firſt,</hi> Faith, that's ſaving, as the Apoſtle ſaith, <hi>Purifieth the Conſcience:</hi> ſo then if thy Faith
+<pb n="31" facs="tcp:99733:18"/>be true, it cleanſeth thy Soul from ſin; it clean<g ref="char:EOLhyphen"/>ſeth thy Soul from Covetouſneſs; it clean<g ref="char:EOLhyphen"/>ſeth thy Soul from Luſt; it cleanſeth thy Soul from Pride; it cleanſeth thy Soul from Re<g ref="char:EOLhyphen"/>venge; it cleanſeth thy Soul from Drunken<g ref="char:EOLhyphen"/>neſs; it cleanſeth thy Soul from Hypocriſy, it cleanſeth thy Soul from Rebellion; it clean<g ref="char:EOLhyphen"/>ſeth thy Soul from Treaſon; it cleanſeth thy Soul from Idolatry; it cleanſeth thy Soul from Faction; it cleanſeth thy Soul from all man<g ref="char:EOLhyphen"/>ner of Wickedneſs.</p>
+               <p>The Devils Believe, but they cannot be clean<g ref="char:EOLhyphen"/>ſed from their black Abominations; Hypo<g ref="char:EOLhyphen"/>crites believe, and profeſs and make a fair ſhew of outward Holineſs, but their hearts are not cleanſed from Oppreſſion, Luſt, Murder, Trea<g ref="char:EOLhyphen"/>ſon, and Rebellions. Our Saviour of old Com<g ref="char:EOLhyphen"/>pares them to Tombs, now you know that Tombs are oft uſually the moſt beautiful Or<g ref="char:EOLhyphen"/>naments of the Church; but let a man digg within them, and he ſhall find nothing but pu<g ref="char:EOLhyphen"/>trifaction, ſtink, and dead mens bones. Never ſay then, that thou Believeſt ſavingly, or that thou haſt more Faith than Devils, Hypocrites; while Sin and Wickedneſs governs thy Soul.</p>
+               <p>
+                  <hi>Secondly,</hi> True Saving Faith works by Love: So it produceth Works; <hi>Shew me thy Faith by thy
+<pb n="32" facs="tcp:99733:19"/>Works,</hi> ſaith St. <hi>James.</hi> Where there is true Faith in the Soul, like the Centurion, it <hi>ſaith to one, Go, and he goeth; and to another, Come, and he come<g ref="char:EOLhyphen"/>eth,</hi> it Commands all our Actions, our Hand to Diſtribute to the Poor, our Feet to Walk in the Commandments of God, our Hearts to be Upright towards our God, and towards our Neighbours, our Tongue to Declare the Lo<g ref="char:EOLhyphen"/>ving Kindneſs of the Lord.</p>
+               <p>Faith in the Soul of Man, is like Sap in a Tree that lies hid; but Holy Works are like Fruit that ſhews it ſelf; where there is true Faith in a Man, there will be Holy Works, there will be Hope, there will be Charity, there will be Repentance, there will be Godly Zeal: The Apoſtle St. <hi>Paul</hi> tells us, that <hi>the Juſt live by Faith;</hi> That is, they live the Life of Holy<g ref="char:EOLhyphen"/>neſs; they live the Life of Religion, they live the Life of Sobriety, they live the Life of Cha<g ref="char:EOLhyphen"/>ſtity, they live the Life of Humility, they live the Life of Godly Love. They do not live the life of Prophaneneſs, they do not live the life of Drunkenneſs, they do not live the life of Luſt, they do not live the life of Pride, they do not live the life of Revenge and Malice; theſe are the Works of the De<g ref="char:EOLhyphen"/>vil.</p>
+               <pb n="33" facs="tcp:99733:19"/>
+               <p>Labour therefore for a true Saving Faith, A Faith that cleanſeth thy Soul from Sin, and worketh by Love: If a man ſhould come and tell a Perſon that's Rich, that all the Writings in his Cheſt, that Aſſur'd him of his Poſſeſſions, were Forged &amp; Counterfeit, would it not make him ſtart and go to his Cheſt, take them out and have them read and conſidered on by the beſt and learned Council? and ſhall not we look after our Faith, to ſee whether that be Sound and Real, which is an Evidence of our Eternal Inheritances. Without the Garment of Chriſt's Righteouſneſs to cover our Souls, we ſhall never go to Heaven; and there is no put<g ref="char:EOLhyphen"/>ting this Garment on, without a true ſanctifi<g ref="char:EOLhyphen"/>ed Faith: Faith is the Hand of the Soul that puts on Chriſt.</p>
+               <p>I can't ſtand no longer upon this Point, the time hath over-ſhot me; I will conclude all with the Bleſſing that <hi>Jacob</hi> gave his Sons when they went into <hi>Egypt</hi> to carry <hi>Benjamin, God Almighty Grant you favour in the eyes of the Great Man:</hi> So the Lord Grant us all Favour in the Eyes of the Great God, before whom we muſt appear this day at his Holy Table: And that we may have Favour, let us bring the Beloved <hi>Ben<g ref="char:EOLhyphen"/>jamin</hi> with us, which is the Righteouſneſs
+<pb n="34" facs="tcp:99733:20" rendition="simple:additions"/>of Chriſt by Faith; that this Bleſſed Feaſt we are Invited to, may not be a ſavour of Death unto any; but a ſavour of Life unto all that ſhall pertake of it, <hi>&amp;c.</hi>
+               </p>
+               <p>Which God of his Infinite Mercy grant; To whom be aſcribed all Honour, Power, and Glory, Adoration and Subjection, from this time forth, and for ever more. And let all the People ſay, <hi>Amen.</hi>
+               </p>
+            </div>
+            <closer>Let us Pray.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
